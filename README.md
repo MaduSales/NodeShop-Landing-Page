@@ -1,1 +1,1 @@
-# NodeShop-Responsive-Landing-Page
+# NodeShop-Landing-Page
